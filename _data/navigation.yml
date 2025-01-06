@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-    url: /files/cv.pdf
+    url: /files/CV_Tourvas_en.pdf
     #url: /cv/ 
     
   - title: "Publications"
