@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 PhD student investigating oak forests local adaptation at AUTh, Greece. Interested in Population Genetics, Reproducible Research, and Linux (he/him).
+
+![The milky way above a fir forest where fireflies are flying around](/images/pertouli_milkyway.jpg)
