@@ -1,6 +1,6 @@
 ---
 title: "Software Project Name"
-excerpt: "Short description of the software project <br/><img src='/images/software-screenshot.png'>"
+excerpt: "Short description of the software project <br/><img src='/images/pertouli_milkyway_low.jpg'>"
 collection: software
 ---
 
