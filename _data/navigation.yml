@@ -7,26 +7,13 @@
 main:
   - title: "CV"
     url: /files/CV_Tourvas_en.pdf
-    #url: /cv/ 
-    
+
   - title: "Publications"
     url: https://scholar.google.gr/citations?user=CbSSjzQAAAAJ&hl
-    #url: /publications/
-
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
 
   - title: "Software"
     url: /software/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-#  - title: "Guide"
-#    url: /markdown/
+
+# Hidden until it points to Substack (there are no posts on the site itself)
+#  - title: "Blog"
+#    url: https://YOURNAME.substack.com

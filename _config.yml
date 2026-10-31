@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Nikolaos (Nikos) Tourvas"
 title_separator          : "-"
 name                     : &name "Nikos Tourvas"
-description              : &description "personal description"
+description              : &description "Nikos Tourvas, PhD student in plant population genetics at Aristotle University of Thessaloniki (AUTh), Greece."
 url                      : https://nikostourvas.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "nikostourvas/nikostourvas.github.io"
@@ -181,6 +181,7 @@ exclude:
   - package.json*
   - Rakefile
   - README
+  - README.md
   - tmp
   - vendor
 keep_files:
