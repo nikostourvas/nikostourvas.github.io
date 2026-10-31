@@ -118,7 +118,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   hide                   : false     # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+  path                   : "https://nikostourvas.substack.com/feed" # blog lives on Substack; blank uses feed.xml
 
 
 # SEO Related

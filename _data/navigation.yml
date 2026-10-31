@@ -14,6 +14,5 @@ main:
   - title: "Software"
     url: /software/
 
-# Hidden until it points to Substack (there are no posts on the site itself)
-#  - title: "Blog"
-#    url: https://YOURNAME.substack.com
+  - title: "Blog"
+    url: https://nikostourvas.substack.com
